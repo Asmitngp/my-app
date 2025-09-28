@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "/courses/guitar.jpg" 
+        "image": "src/data/photos/pexels-brent-keane-181485-1751731.jpg" 
       },
       {
         "id": 2,
@@ -17,8 +17,8 @@
         "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
         "price": 109.99,
         "instructor": "Jane Smith",
-        "isFeatured": false,
-        "image": "/courses/piano.jpg" 
+        "isFeatured": true,
+        "image": "src/data/photos/pexels-clam-lo-1782448-3469692.jpg" 
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
-        "image": "/courses/vocalist.jpg" 
+        "image": "src/data/photos/pexels-cottonbro-4708913.jpg" 
       },
       {
         "id": 4,
@@ -37,8 +37,8 @@
         "description": "Master the drums with our comprehensive course covering all skill levels.",
         "price": 129.99,
         "instructor": "Mike Brown",
-        "isFeatured": false,
-        "image": "/courses/drumming.jpg"
+        "isFeatured": true,
+        "image": "src/data/photos/pexels-daliladalprat-2043571.jpg"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "price": 139.99,
         "instructor": "Chris Davis",
         "isFeatured": false,
-        "image": "/courses/jazz.jpg"
+        "image": "src/data/photos/pexels-davidleblanc-3825158.jpg"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "price": 149.99,
         "instructor": "Alex Wilson",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "src/data/photos/pexels-joshsorenson-995301.jpg"
       },
       {
         "id": 7,
@@ -68,7 +68,7 @@
         "price": 159.99,
         "instructor": "Samantha Miller",
         "isFeatured": false,
-        "image": "/courses/song-writing.jpg"
+        "image": "src/data/photos/pexels-koolshooters-6621704.jpg"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "price": 169.99,
         "instructor": "Luke Harris",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "src/data/photos/pexels-pixabay-210854.jpg"
       },
       {
         "id": 9,
@@ -88,17 +88,17 @@
         "price": 179.99,
         "instructor": "Grace Lee",
         "isFeatured": false,
-        "image": "/courses/classical-music.jpg"
+        "image": "src/data/photos/pexels-rucasouza-1049690.jpg"
       },
       {
         "id": 10,
         "title": "Blues Guitar Techniques",
         "slug": "blues-guitar-techniques",
-        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.Use of techniques such as slides, slurs.",
         "price": 189.99,
         "instructor": "Ethan Moore",
         "isFeatured": true,
-        "image": "/courses/blues.jpg"
+        "image": "src/data/photos/pexels-koolshooters-6621704.jpg"
       }
     ]
   }

@@ -1,5 +1,13 @@
+import { main } from "framer-motion/client";
+import HeroSection from "@/components/HeroSection";
+import FeaturedCourses from "@/components/FeaturedCourses";
+import StickyScrool from "@/components/StickyScrool";
 export default function Home() {
   return (
-  <h1 className="text-4xl text-center mt-10 underline">Chai aur code</h1>
+  <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+    <HeroSection/>
+    <FeaturedCourses/>
+    <StickyScrool/>
+  </main>
   );
 }
